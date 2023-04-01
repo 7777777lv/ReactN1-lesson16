@@ -81,3 +81,9 @@
 .light .about-sbc-left h1 {
     color: black;
 }
+.light footer {
+    background: var(--light);
+}
+.light footer span {
+    color: black;
+}
